@@ -1,0 +1,8 @@
+What is tuple?
+
+tuple is a sequence of values stored in a 
+single memory.
+
+tuple represent in paranthis() bracket.
+
+tuple are immutable object.

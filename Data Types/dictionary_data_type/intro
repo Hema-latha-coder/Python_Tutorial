@@ -1,0 +1,17 @@
+What is dictionary?
+
+It is a key and value pair.
+
+dictionary represent in curl bracket {}
+
+duplicate keys are not allowed
+
+only one none key allowed
+
+insertion order
+
+duplicate values are allowed
+
+any number of none values allowed
+
+order depends on keys.

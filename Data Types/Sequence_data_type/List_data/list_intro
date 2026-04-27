@@ -1,0 +1,13 @@
+What is list?
+
+List is a sequence of values stored in a 
+single memory.
+
+List represent in square bracket.
+
+List are mutable object.
+
+List allows duplicate elements
+
+
+a = [10, 20,30,40,50]

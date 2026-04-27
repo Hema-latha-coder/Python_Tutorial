@@ -1,0 +1,22 @@
+What is looping?
+
+Perform repeated task 
+
+1) for loop 
+
+2) while loop
+
+
+sy:
+
+for iterable_variable  in_operator value:
+    logics
+
+
+sy:
+
+initialization;
+
+while(condition):
+    logics;
+    increment or decrement;

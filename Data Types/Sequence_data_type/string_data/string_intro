@@ -1,0 +1,16 @@
+What is String?
+
+It is a sequence of characters it represent in 
+single quotes or double quotes.
+
+Ex: 
+
+name = "Rajesh"
+city = 'chennai'
+
+1) How to create a String?
+2) How to access a string?
+3) Slicing operator
+4) String methods
+5) String formatting
+6) Substring
