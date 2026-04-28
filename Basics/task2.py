@@ -1,10 +1,10 @@
-a,b = 100, 200
+a,b = 10, 20
 
-print(a) # 100
-print(b) # 200
+print(a) # 10
+print(b) # 20
 
 print("a =", b)
 print('b =', a)
 
-print(a) # 200
-print(b) # 100
+print(a) # 20
+print(b) # 10
